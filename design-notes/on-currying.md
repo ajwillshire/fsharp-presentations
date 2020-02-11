@@ -47,7 +47,7 @@ Where all callsites are always saturated up and there is no partial application 
 
 A language like this would still look and feel much like modern F# code. That wouldn’t have
 been true for F# 0.x, but over time F# coding has developed its own stable style very distinct
-from OCaml etc. and the above would fit too badly if it weren’t a breaking change.   So this is in theory
+from OCaml etc. and the above wouldn't fit too badly if it weren’t a breaking change.   So this is in theory
 a reasonable, stable starting point for hybrid OO/FP languages and I wouldn’t be too surprised
 if it gradually becomes quite standard amongst languages somehow.  
 
